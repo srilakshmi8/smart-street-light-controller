@@ -27,16 +27,14 @@ movement of the object, and the power limitations takes place to increase the br
 that can be integrated into a variety of electronic project.
 
 **PROCEDURE:-**
-• First we need to prepare algorithm for the code. • Make the connections on the breadboard. • Place the LDR on the breadboard and connect one end of the
-breadboard to resistor to analog Analog pin and other end to +5V
-in Ardunio.
+• First we need to prepare algorithm for the code. • Make the connections on the breadboard. • Place the LDR on the breadboard and connect one end of the breadboard to resistor to analog Analog pin and other end to +5V in Ardunio.
 
 • Take the IR sensor and connect the third pin of the IR sensor to
-one is +5V, group pin is a ground and out pin is to analog pin. • Take the LEDs and place them on breadboard and connect
-resistors to the negative end of led and to the ground, then the
-other end of the led is going to connect with digital pins of
-Ardunio.
+one is +5V, group pin is a ground and out pin is to analog pin.
+• Take the LEDs and place them on breadboard and connect resistors to the negative end of led and to the ground, then the
+ other end of the led is going to connect with digital pins of Ardunio.
 
 • Once check the all connections and then write the code on
-Ardunio software and dump the code on it and then run it. • We have to prepare the code according to the above
+Ardunio software and dump the code on it and then run it.
+• We have to prepare the code according to the above
 connections.
